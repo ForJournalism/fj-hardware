@@ -11,7 +11,7 @@ fj-hardware
 * sound (decible meter for construction site, clapper)
 * water (flood preparation, gardening)
 * vibration (potholes, rough handling of packages)
-* chemicals ((localized water (dissolved O_2 adn pH) and air quality))
+* chemicals ((localized water (dissolved O_2 and pH) and air quality))
 
 ## Construction concerns
 
