@@ -16,6 +16,7 @@ The team from [Spark](http://spark.io) take us through using various sensors for
 * water (flood preparation, gardening)
 * vibration (potholes, rough handling of packages)
 * chemicals ((localized water (dissolved O_2 and pH) and air quality))
+* biometrics (pulse)
 
 ### Construction concerns
 
