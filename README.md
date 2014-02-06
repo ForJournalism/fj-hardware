@@ -1,11 +1,15 @@
 fj-hardware
 ===========
 
-## Setup
+The team from [Spark](http://spark.io) take us through using various sensors for collecting data. We also talk about calibration, ethical and durability concerns
+
+## Syllabus
+
+### Setup
 
 * common video for all projects (10 mins)
 
-## Sensor types
+### Sensor types
 
 * light
 * sound (decible meter for construction site, clapper)
@@ -13,16 +17,20 @@ fj-hardware
 * vibration (potholes, rough handling of packages)
 * chemicals ((localized water (dissolved O_2 and pH) and air quality))
 
-## Construction concerns
+### Construction concerns
 
 * calibration
 * durability
 * power
 * reporting data
 
-## Analysis
+### Analysis
 
 * error reduction
 * ethics
 
-## Case studies
+### Case studies
+
+## Shopping list
+
+These are the parts we will use.
