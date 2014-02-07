@@ -18,6 +18,11 @@ The team from [Spark](http://spark.io) take us through using various sensors for
 * chemicals ((localized water (dissolved O_2 and pH) and air quality))
 * biometrics (pulse)
 
+### Output
+
+* log file
+* LCD
+
 ### Construction concerns
 
 * calibration
