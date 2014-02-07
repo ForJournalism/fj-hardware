@@ -32,6 +32,9 @@ The team from [Spark](http://spark.io) take us through using various sensors for
 
 ### Case studies
 
-## Shopping list
+## Parts
 
-These are the parts we will use.
+* [graphic LCD](https://www.sparkfun.com/products/710)
+* [dissolved oxygen](https://www.sparkfun.com/products/11194)
+* [triple-axis](https://www.sparkfun.com/products/9836)
+* [triple-axis](https://www.sparkfun.com/products/10955) x2
